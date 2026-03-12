@@ -1,7 +1,8 @@
 [🇺🇸 English Version](README.md)
 
 # 🏙️ Análise de Preços no Airbnb — Nova York
-
+## Live Dashboard
+Access the deployed dashboard here: [Open App](https://airbnb-price-analysis-2fwl2nrd4ryffvf4aeakwu.streamlit.app/)
 ## Sobre o Projeto
 
 Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** completa das listagens do Airbnb na cidade de Nova York. O objetivo principal é compreender os principais fatores que influenciam os preços das listagens e identificar padrões relevantes relacionados ao tipo de acomodação, localização, avaliações e disponibilidade.
